@@ -10,3 +10,5 @@ How to call font icon?
 Its really simple you just need to call a font class then icon name and remember one thing your must pass the icon code to dispaly icon properly.
 
 ``<i class="icon icon-search-7">&#xe801;</i>``
+
+**Download and view index.php for examples.**
