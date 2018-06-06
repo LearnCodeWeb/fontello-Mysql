@@ -20,4 +20,6 @@ Now its really simple you just need to call a font class then icon name and reme
 
 ``<i class="icon icon-search-7">&#xe801;</i>``
 
+![alt text](fontello-mysql.png)
+
 **Download and view index.php for examples.**
