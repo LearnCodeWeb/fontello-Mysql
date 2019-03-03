@@ -5,6 +5,10 @@ Fontello all icons with intigration.
 2) Add icon-style.css into your project.
 3) Enjoy the fontello lib :)
 
+See detailed Documentation <a href="https://learncodeweb.com/web-development/how-to-integrate-fontello-mysql-all-icons/" target="_blank">Click here</a>
+
+Online View <a href="https://learncodeweb.com/demo/web-development/how-to-integrate-fontello-mysql-all-icons/" target="_blank">View Demo</a>
+
 ----------------------------------------------------------
 How to call font icon?
 ======================
